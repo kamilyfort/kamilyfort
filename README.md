@@ -9,11 +9,9 @@ Programei em Java na robótica e Python no ensino médio. Atualmente aprendendo 
 <br>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kamilyfort&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamilyfort&layout=compact&theme=radical"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=kamilyfort&show_icons=true&theme=radical"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamilyfort&layout=compact&theme=radical"/>
 </div>
-
-<br>
 
 <br>
 
